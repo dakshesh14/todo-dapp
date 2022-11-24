@@ -23,7 +23,7 @@ We have proper mutations and queries to interact with the smart contract. We als
 
 ## Preview
 
-![preview]("https://github.com/dakshesh14/todo-dapp/blob/main/public/preview.gif?raw=true")
+![preview]("https://raw.githubusercontent.com/dakshesh14/todo-dapp/main/public/preview.gif")
 
 > **Note**
 > Preview window is zoomed in. And the metamask extension is not visible. So, when I am interacting with meta mask, it is not visible in the preview. But it does not means mutation is slow.
